@@ -29,7 +29,3 @@ The project demonstrates a foundational understanding of modern NLP architecture
 - Can serve as a **learning tool** or base for further research
 
 ---
-
-## 📂 Project Structure
-
-
